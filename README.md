@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/tests-12_suites-F97316?style=for-the-badge&labelColor=18181B" alt="Test suites">
   <img src="https://img.shields.io/badge/offline--first-F97316?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=18181B" alt="Offline-first">
   <img src="https://img.shields.io/badge/AI-Gemini_·_Groq-F97316?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=18181B" alt="AI: Gemini and Groq">
-  <img src="https://img.shields.io/github/last-commit/mohansaiganesh/NutriCraft?style=for-the-badge&color=F97316&labelColor=18181B" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/sa1136/NutriCraft?style=for-the-badge&color=F97316&labelColor=18181B" alt="Last Commit">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=F97316,FB923C" width="100%" alt="">
@@ -228,7 +228,7 @@ Without the Supabase vars the app shows a "Cloud not configured" screen instead 
 ### Installation
 
 ```bash
-git clone https://github.com/mohansaiganesh/NutriCraft.git
+git clone https://github.com/sa1136/NutriCraft.git
 cd NutriCraft
 npm install
 ```
@@ -408,14 +408,14 @@ No license is granted, so please don't redistribute or use the source without pe
 <h2 id="contact">13. 📬 Contact</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Mohan_Sai_Ganesh_Kanna-18181B?style=for-the-badge" alt="Mohan Sai Ganesh Kanna">&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohansaiganeshkanna/">
+  <img src="https://img.shields.io/badge/Akhilaa_Sonduri_Panthangi-18181B?style=for-the-badge" alt="Akhilaa Sonduri Panthangi">&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akhilaa-sonduri-0154b61a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://kmohansaiganesh.github.io/Portfolio">
+  <a href="https://akhilaa-portfolio-dev-git-main-akhilaa-sonduris-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:mohansaiganeshk@gmail.com">
+  <a href="mailto:spakhilaa10@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
